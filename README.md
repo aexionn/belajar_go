@@ -1,1 +1,1 @@
-# belajar_go
+# kalkulator_go
